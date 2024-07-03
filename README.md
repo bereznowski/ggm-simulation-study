@@ -26,11 +26,14 @@ The 15 populational models used in the study (being the result of crossing the c
 *Figure 2. Populational models used in the study.*
 
 ## Most important results
+### Percentage of empty networks
 The results showed that only data based on the models with 5 nodes can be used to estimate non-empty networks in samples comprising 200 observations or more. Other models required higher sample sizes and these increased steeply as the number of nodes and the ratio of edges present increased (see Figure 3). Surprisingly, the distribution of the data had a negligible effect on the estimation of non-empty networks.
 
 <img src="./figures/Fig3.jpeg" width = "1000"/>
 
 *Figure 3. Percentage of empty networks estimated in each condition.*
+
+### Metrics of accuracy
 
 Most of the metrics used in the study showed identical patterns. The estimated networks more accurately resembled the populational model when:
 * sample size is larger,
